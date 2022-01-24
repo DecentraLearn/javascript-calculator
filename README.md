@@ -1,6 +1,6 @@
 This project was created for the 'Front End Development Libraries' certification from FreeCodeCamp.
 
-Built with react.
+Built with react. Preview can be seen at https://decentralearn.github.io/javascript-calculator/
 
 Required User Stories:
 
